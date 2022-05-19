@@ -4,7 +4,7 @@ Advanced Data Storage and Retrieval
 
 Project Purpose: 
 
-The purpose of this project is to determine temperatures in Hawaii in consideration of creating a prospective business to be called “Surf n’ Shake”.  The business plan calls for the sale/rental of surf boards while retailing ice cream shakes to local residents and tourists. We are tasked with gathering annual temperature data such that it can be determined that the business can be run throughout the entire year. This data will be presented to possible investors in a clear and concise fashion. 
+The purpose of this project is to determine temperatures in Hawaii in consideration of creating a prospective business to be called “Surf n’ Shake”.  The business plan calls for the sale/rental of surf boards while retailing ice cream shakes to local residents and tourists. We are tasked with gathering annual temperature data such that it can be determined that the business can be run throughout the entire year. This data must be presented to possible investors in a later presentation in a clear and concise fashion. 
 
 Summary Statistics: Temperature Analyzation
 
